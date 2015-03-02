@@ -1,0 +1,4 @@
+export NAMECHEAP_DOMAIN=""
+export NAMECHEAP_HOSTNAME=""
+export NAMECHEAP_PASSWORD=""
+export RETRIES=5
